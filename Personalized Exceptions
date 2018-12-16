@@ -1,0 +1,7 @@
+Personalized Exceptions
+
+model:
+	-entities;
+	- enums;
+	- exception;
+	- services;
